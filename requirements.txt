@@ -1,0 +1,8 @@
+SpeechRecognition
+whisper
+setuptools-rust
+PyAudio
+soundfile
+
+scikit-learn
+joblib
