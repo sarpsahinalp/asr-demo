@@ -6,3 +6,6 @@ soundfile
 
 scikit-learn
 joblib
+transformers
+datasets
+torch
