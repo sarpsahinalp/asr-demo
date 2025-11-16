@@ -1,11 +1,17 @@
-SpeechRecognition
+nemo
+SpeechRecognition[faster-whisper]
 whisper
 setuptools-rust
 PyAudio
 soundfile
+vosk
 
 scikit-learn
 joblib
+transformers[torch]
+datasets
+evaluate
+jiwer
 transformers
 datasets
 torch
